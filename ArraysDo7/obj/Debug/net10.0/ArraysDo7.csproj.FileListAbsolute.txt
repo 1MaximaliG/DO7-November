@@ -1,0 +1,15 @@
+C:\Users\Max.Gronemann\source\repos\ArraysDo7\ArraysDo7\bin\Debug\net10.0\ArraysDo7.exe
+C:\Users\Max.Gronemann\source\repos\ArraysDo7\ArraysDo7\bin\Debug\net10.0\ArraysDo7.deps.json
+C:\Users\Max.Gronemann\source\repos\ArraysDo7\ArraysDo7\bin\Debug\net10.0\ArraysDo7.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\ArraysDo7\ArraysDo7\bin\Debug\net10.0\ArraysDo7.dll
+C:\Users\Max.Gronemann\source\repos\ArraysDo7\ArraysDo7\bin\Debug\net10.0\ArraysDo7.pdb
+C:\Users\Max.Gronemann\source\repos\ArraysDo7\ArraysDo7\obj\Debug\net10.0\ArraysDo7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\ArraysDo7\ArraysDo7\obj\Debug\net10.0\ArraysDo7.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\ArraysDo7\ArraysDo7\obj\Debug\net10.0\ArraysDo7.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\ArraysDo7\ArraysDo7\obj\Debug\net10.0\ArraysDo7.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\ArraysDo7\ArraysDo7\obj\Debug\net10.0\ArraysDo7.dll
+C:\Users\Max.Gronemann\source\repos\ArraysDo7\ArraysDo7\obj\Debug\net10.0\refint\ArraysDo7.dll
+C:\Users\Max.Gronemann\source\repos\ArraysDo7\ArraysDo7\obj\Debug\net10.0\ArraysDo7.pdb
+C:\Users\Max.Gronemann\source\repos\ArraysDo7\ArraysDo7\obj\Debug\net10.0\ArraysDo7.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\ArraysDo7\ArraysDo7\obj\Debug\net10.0\ref\ArraysDo7.dll
+C:\Users\Max.Gronemann\source\repos\ArraysDo7\ArraysDo7\obj\Debug\net10.0\ArraysDo7.csproj.Up2Date
