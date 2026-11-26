@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArraysDo7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1b4c5d71f532151775f250c38960913912bb0fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArraysDo7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArraysDo7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

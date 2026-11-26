@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Max.Gronemann\\source\\repos\\ArraysDo7\\ArraysDo7\\ArraysDo7.csproj",
-      "projectName": "ArraysDo7",
-      "projectPath": "C:\\Users\\Max.Gronemann\\source\\repos\\ArraysDo7\\ArraysDo7\\ArraysDo7.csproj",
+      "projectUniqueName": "C:\\Users\\Max.Gronemann\\source\\repos\\ArraysDo7\\ArraysDo7\\ArraysDo7Blatt1.csproj",
+      "projectName": "ArraysDo7Blatt1",
+      "projectPath": "C:\\Users\\Max.Gronemann\\source\\repos\\ArraysDo7\\ArraysDo7\\ArraysDo7Blatt1.csproj",
       "packagesPath": "C:\\Users\\Max.Gronemann\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Max.Gronemann\\source\\repos\\ArraysDo7\\ArraysDo7\\obj\\",
       "projectStyle": "PackageReference",
