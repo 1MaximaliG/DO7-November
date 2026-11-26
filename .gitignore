@@ -1,3 +1,8 @@
+
+# hier noch ein kleiner cmd befehl zum entfernen aller zu ignorierenden
+# files aus dem cache, falls sie schon mal gepushed wurden
+#git ls-files -ci --exclude-standard -z | xargs -0 -r git rm --cached
+
 # Visual Studio user-specific files
 .vs/
 # Compilier daten
