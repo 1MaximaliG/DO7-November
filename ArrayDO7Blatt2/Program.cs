@@ -121,7 +121,7 @@ namespace ArrayDO7Blatt2
                         huhn[j + 1] = temp;
                     }
             Console.WriteLine(huhn);
-
+            
         }
     }
 }
