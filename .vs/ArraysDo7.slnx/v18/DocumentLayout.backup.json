@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Max.Gronemann\\source\\repos\\ArraysDo7\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8DBB54D9-B1E3-4DAC-91FD-D7837B125094}|ArraysDO7Blatt3\\ArraysDO7Blatt3.csproj|c:\\users\\max.gronemann\\source\\repos\\arraysdo7\\arraysdo7blatt3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBB54D9-B1E3-4DAC-91FD-D7837B125094}|ArraysDO7Blatt3\\ArraysDO7Blatt3.csproj|solutionrelative:arraysdo7blatt3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BEE01141-C945-499A-818C-1030323FC9B4}|ArrayDO7Blatt2\\ArrayDO7Blatt2.csproj|c:\\users\\max.gronemann\\source\\repos\\arraysdo7\\arraydo7blatt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEE01141-C945-499A-818C-1030323FC9B4}|ArrayDO7Blatt2\\ArrayDO7Blatt2.csproj|solutionrelative:arraydo7blatt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -24,18 +28,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\ArraysDo7\\ArraysDO7Blatt3\\Program.cs",
+              "RelativeDocumentMoniker": "ArraysDO7Blatt3\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\ArraysDo7\\ArraysDO7Blatt3\\Program.cs",
+              "RelativeToolTip": "ArraysDO7Blatt3\\Program.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAswHUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T08:29:33.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\ArraysDo7\\ArrayDO7Blatt2\\Program.cs",
               "RelativeDocumentMoniker": "ArrayDO7Blatt2\\Program.cs",
               "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\ArraysDo7\\ArrayDO7Blatt2\\Program.cs",
               "RelativeToolTip": "ArrayDO7Blatt2\\Program.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAQwHAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAQwH8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-26T07:18:58.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\ArraysDo7\\ArraysDo7\\Program.cs",
               "RelativeDocumentMoniker": "ArraysDo7\\Program.cs",
